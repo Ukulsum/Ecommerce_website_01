@@ -109,7 +109,7 @@ button.btn{
 
 /* ------------Home page start-----------  */
 #hero{
-    background-image: url("./images/hero/hero2.png");
+    background-image: url(./images/hero/hero2.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: top 65% right 0;
