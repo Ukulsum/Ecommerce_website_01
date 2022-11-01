@@ -563,7 +563,7 @@ footer .copywrite{
 
 /*-------------- blog page area start -------------- */
 #page_header.blog_page{
-    background-image: url(/images/banner/b19.jpg);
+    background-image: url("../images/banner/b19.jpg");
 }
 #blog{
     padding: 150px 150px 0 150px;
@@ -624,7 +624,7 @@ footer .copywrite{
 
 /*-------------- about page area start  --------------*/
 #page_header.about_page{
-    background-image: url(/images/about/banner.png);
+    background-image: url("../images/about/banner.png");
 }
 #page_header.about_page h2,
 #page_header.about_page p{
